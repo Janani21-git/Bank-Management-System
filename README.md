@@ -3,7 +3,7 @@ This is a simple Java-based Bank Application developed to understand and impleme
 The application simulates basic banking operations through a console-based interface.
 ____________________________________________________________________________________________________________________________________
 
-Features
+Features : 
 Create a bank account
 Deposit money
 Withdraw money
@@ -11,15 +11,15 @@ Check account balance
 Simple and user-friendly flow
 ______________________________________________________________________________________________________________________________________
 
-Technologies Used
+Technologies Used : 
 Java
 OOP Concepts (Classes, Objects, Encapsulation)
 _______________________________________________________________________________________________________________________________________
 
-Purpose
+Purpose : 
 This project is created for learning purposes and helps beginners understand how real-world banking logic can be implemented using Java.
 ________________________________________________________________________________________________________________________________________
-How to Run
+How to Run : 
 Clone the repository
 Open the project in any Java IDE (Eclipse / IntelliJ / VS Code)
 Compile and run the main Java file
